@@ -49,6 +49,4 @@ if __name__ == "__main__":
 
 output : (.venv) ➜  challenge02 git:(11-find_middle_node) ✗ python3 challenge02.py  
 3 -> 4 -> 5
-
-
 '''
