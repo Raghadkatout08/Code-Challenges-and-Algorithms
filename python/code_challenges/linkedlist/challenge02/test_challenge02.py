@@ -1,4 +1,3 @@
-# Write your test here
 from challenge02 import Node, MiddleNode
 
 def create_linked_list(values):
@@ -49,7 +48,6 @@ def test_middle_node():
     middle5 = MiddleNode(head5)
     assert middle5.value == 51
 
-    # Test case 6: List with 101 nodes
     head6 = create_linked_list(list(range(1, 102)))
     middle6 = MiddleNode(head6)
     assert middle6 is None 
