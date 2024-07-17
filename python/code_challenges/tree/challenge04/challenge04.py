@@ -75,7 +75,7 @@ class Tree:
             return None
         
         return build_tree_helper(0)
-
+    
 
 # Example Usage
 node_values1 = [1000, 500, 2000, 250, 600, 12000]

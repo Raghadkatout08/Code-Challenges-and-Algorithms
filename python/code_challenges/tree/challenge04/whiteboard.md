@@ -1,1 +1,2 @@
-![FindMaxOfTre](assets/Challenge04_FindMaxOfTree.jpg)
+![FindMaxofTree](assets/Challenge04_FindMaxofTree.jpg)
+

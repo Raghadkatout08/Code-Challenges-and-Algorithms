@@ -80,7 +80,8 @@ def test_max_value_two_values_tree(two_values_tree):
     Asserts:
     - Checks that the maximum value in the tree is 100.
     """
-    assert Tree.max_value(two_values_tree) == 100
+
+    assert Tree.max_value(two_values_tree) == 100 
 
 def test_max_value_best_case_tree(best_case_tree):
     """
@@ -92,6 +93,8 @@ def test_max_value_best_case_tree(best_case_tree):
     Asserts:
     - Checks that the maximum value in the tree is 93.
     """
+
+
     assert Tree.max_value(best_case_tree) == 93
 
 def test_max_value_normal_case_tree(normal_case_tree):
