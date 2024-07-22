@@ -1,0 +1,1 @@
+![hashtable, repeated word](assert/Challenge02_Hashtabel_Repeated_Word.jpg)
