@@ -1,0 +1,1 @@
+![Hashtable: Sum of Unique Elements](assert/Challenge03_Hashtable_Sum_Of_Unique_Elements.jpg)
