@@ -1,0 +1,1 @@
+![Hashtable: Sort People](assert/Challenge04_Hashtable_Sort_People.jpg)
