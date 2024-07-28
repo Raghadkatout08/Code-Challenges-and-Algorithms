@@ -1,4 +1,4 @@
-from challenge01 import Node, Tree
+from challenge01 import Tree
 
 def test_tree_construction_normal():
     '''Test case for constructing a binary tree from preorder and inorder traversals.'''
@@ -7,9 +7,9 @@ def test_tree_construction_normal():
     inorder = [9, 3, 15, 20, 7]
 
     tree.root = tree.buildTree(preorder, inorder)
-    excepted_output = [3, 9, 20, None, None, 15, 7]
+    expected_output = [3, 9, 20, None, None, 15, 7]
 
-    assert tree.levelOrderTraversal(tree.root) == excepted_output
+    assert tree.levelOrderTraversal(tree.root) == expected_output
     
 def test_tree_construction_empty():
     '''Test case for handling empty input lists in binary tree construction.'''
