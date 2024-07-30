@@ -1,0 +1,1 @@
+![Hashtable: Arrays Intersection](assert/Challenge05_Hashtable_Arrays_Intersection.jpg)
