@@ -1,0 +1,1 @@
+![Challenge03: Graph(Strongly Connected)](assert/Challenge03_Graph_Strongly_Connected.jpg)
